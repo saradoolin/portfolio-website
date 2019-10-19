@@ -1174,7 +1174,7 @@ input, select, textarea {
 			-moz-filter: blur(0.2rem);
 			-webkit-filter: blur(0.2rem);
 			-ms-filter: blur(0.2rem);
-			filter: blur(0.2rem);
+			fmeilter: blur(0.2rem);
 		}
 
 		body.is-preload #bg:before {
